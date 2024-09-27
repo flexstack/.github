@@ -14,18 +14,21 @@ Deploy serverless apps to your own cloud with unrivaled ease.<br/>
 - Deploy your first app for **less than $10/month** – all in.
 
 
-
 ### Deploy on FlexStack
 
-Instantly launch one of [1-click apps for AWS](https://flexstack.com/apps) to:
+**Import repositories**
+
+- Connect a GitHub repo to launch your app on AWS Fargate
+- Then push code to redeploy a service
+
+**Deploy a container image**
+
+- Launch a container image from a public registry to AWS Fargate
+
+**Instantly launch one of [FlexStack's apps](https://flexstack.com/apps) in 1-click**
 
 - Clone the repo to your a linked GitHub account
 - Deploy the app to your own AWS account
 
 <a href="https://flexstack.com/deploy"><img src="https://flexstack.com/deploy-on-flexstack.svg" height=40/></a>
 
-### FlexStack in 1-minute
-
-Click the image below to watch the demo
-
-[![YouTube](http://i.ytimg.com/vi/kFSw9E3oM3o/hqdefault.jpg)](https://www.youtube.com/watch?v=kFSw9E3oM3o)
