@@ -7,7 +7,7 @@ Deploy serverless apps to your own cloud with unrivaled ease.<br/>
 
 - Launch apps on infrastructure configured with the latest AWS best practices.
 - Use your favorite language or framework &ndash; no Dockerfiles required.
-- Go from code to HTTPS in 1-click.
+- Go from code to HTTPS in one-click.
 - Scale with ease. Automate networking, SSL certificates, autoscaling, and load balancing.
 - Automate the infrastructure you need for every project.
 - Zero-config metrics and logs.
@@ -25,7 +25,7 @@ Deploy serverless apps to your own cloud with unrivaled ease.<br/>
 
 - Launch a container image from a public registry to AWS Fargate
 
-**Instantly launch one of [FlexStack's apps](https://flexstack.com/apps) in 1-click**
+**Instantly launch one of [FlexStack's apps](https://flexstack.com/apps) in one-click**
 
 - Clone the repo to your a linked GitHub account
 - Deploy the app to your own AWS account
